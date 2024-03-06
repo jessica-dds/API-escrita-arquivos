@@ -4,8 +4,11 @@
 Este API foi desenvolvido durante o curso Full Stack da Cubos Academy.
 </p>
 
+<div align="center">
+<img src="https://github.com/jessica-dds/API-escrita-arquivos/assets/150213234/daeb2532-826f-449d-8546-85b3bb0ce806" />
+</div>
 
- ![news2](https://github.com/jessica-dds/API-escrita-arquivos/assets/150213234/daeb2532-826f-449d-8546-85b3bb0ce806)
+
 
 
  
