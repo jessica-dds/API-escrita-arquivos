@@ -4,6 +4,11 @@
 Este API foi desenvolvido durante o curso Full Stack da Cubos Academy.
 </p>
 
+
+ ![news2](https://github.com/jessica-dds/API-escrita-arquivos/assets/150213234/daeb2532-826f-449d-8546-85b3bb0ce806)
+
+
+ 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,5 +37,7 @@ Não houve um layout.
 
 
 ---
+
+
 💜🎯 
 
